@@ -1,0 +1,45 @@
+html {
+	font-family:"Ubuntu";
+    color:white;
+    background-color: black;
+}
+
+h2 {
+    color:rgb(182, 10, 10);
+    text-align:center;
+}
+
+h4 {
+    color:cornflowerblue;
+}
+
+code {
+    text-align:center;
+    font-family:Consolas;
+}
+
+#entete {
+    text-align:center;
+}
+
+.global {
+	border-top: dashed 50px rgb(135, 11, 151);
+	border-bottom: unset;
+	border-top-width: 2px;
+	height: 1px;
+}
+
+.numsep {
+	border-top: dotted 50px rgb(97, 132, 184);
+	border-bottom: unset;
+	border-top-width: 2px;
+	height: 1px;
+}
+
+.liens {
+	color:green;
+}
+
+.lien2 {
+	color:rosybrown;
+}

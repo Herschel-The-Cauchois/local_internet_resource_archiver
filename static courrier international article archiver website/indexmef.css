@@ -1,0 +1,26 @@
+html {
+	font-family:"Ubuntu";
+    color:white;
+    background-color: black;
+}
+
+#titre {
+	text-align:center;
+}
+
+#maj {
+    font-style:italic;
+}
+
+#sommaire {
+	margin: 10px 20px 20px;
+    text-decoration: underline;
+}
+
+#CI {
+    color:#e6e600;
+}
+
+#date {
+    color:cornflowerblue;
+}
